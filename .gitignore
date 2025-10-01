@@ -1,0 +1,35 @@
+# ======================
+# Python cache
+# ======================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ======================
+# Virtual environment
+# ======================
+venv/
+.env/
+*.env
+
+# ======================
+# Data folders
+# ======================
+data/raw/
+data/saved_model/
+
+# ======================
+# Logs & results
+# ======================
+logs/
+*.log
+results/
+
+# ======================
+# System / IDE
+# ======================
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
