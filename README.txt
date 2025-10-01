@@ -13,7 +13,7 @@ Yêu cầu
 
 Cài đặt
 
-git clone https://github.com/HungLD9505/topic-classification.git
+git clone https://github.com/HungLD9505/topic_classification.git
 cd topic-classification
 
 python -m venv venv
