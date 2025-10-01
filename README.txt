@@ -1,5 +1,3 @@
-Mình đã chỉnh sửa lại **README.md** của bạn để đúng chuẩn Markdown GitHub: dùng **các heading, in đậm**, code block, và giữ cấu trúc gọn gàng. Bạn có thể copy trực tiếp:
-
 ````markdown
 # Topic Classification (URL)
 
