@@ -54,7 +54,7 @@ Lưu ý: Đặt file raw_data.csv vào đúng thư mục data/raw/ để các sc
 
 ---
 
-Chạy
+Chạy code
 
 1. Crawl dữ liệu
 
